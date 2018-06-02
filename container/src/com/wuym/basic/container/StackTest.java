@@ -8,7 +8,6 @@ public class StackTest {
         Stack<String> stack = new Stack<>();
         stack.push("U");
         stack.push("n");
-
         stack.push("c");
         stack.pop();
         stack.pop();
